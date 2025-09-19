@@ -15,7 +15,7 @@ body {
     height: 100%;
 }
 
-menu {
+nav {
     background-color: var(--color-principal);
     font-weight: bold;
     display: flex;
@@ -30,7 +30,7 @@ menu {
     width: 100%;
 }
 
-menu :hover {
+nav :hover {
     color: var(--color-secundario);
     border-radius: 8px;
     padding: 8px 32px;
